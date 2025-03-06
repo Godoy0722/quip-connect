@@ -2,8 +2,6 @@
 
 A real-time humorous response system built with Vue.js and Node.js using Socket.IO.
 
-![QuipConnect Screenshot](https://via.placeholder.com/800x450.png?text=QuipConnect+Chat+Interface)
-
 ## Features
 
 - Real-time messaging using Socket.IO
