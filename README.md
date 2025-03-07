@@ -61,15 +61,6 @@ npm install
 
 ### Running the Application
 
-#### Option 1: Using the start script (recommended)
-
-```bash
-chmod +x start.sh  # Make the script executable (first time only)
-./start.sh
-```
-
-#### Option 2: Running separately
-
 1. Start the server:
 
 ```bash
@@ -132,10 +123,6 @@ npm run serve
 - Responsive design testing on different screen sizes
 - Accessibility testing with screen readers
 
-## License
-
-MIT
-
 ## Author
 
-[Your Name] 
+Guilherme Godoy
